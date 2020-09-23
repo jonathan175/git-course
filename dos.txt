@@ -1,0 +1,3 @@
+dir o ls // listar carpetas
+pwd // muestra path actual
+cd // navegamos por el path

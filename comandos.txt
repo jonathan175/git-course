@@ -1,0 +1,9 @@
+git init                                                -   Comenzamos un proyecto
+git add <file> or . for all                             -   Agregamos los archivos al staging area
+git status                                              -   Vemos en donde se encuentran nuestros archivos
+git commit -m "primer commit"                           -   Lo movemos para que este listo a subir con mensaje descriptivo de los cambios
+git push                                                -   Listo para subirlo a un repositorio online
+git pull                                                -   Nos traemos los cambios online
+git clone                                               -   Hacemos una copia de un repositorio onlines
+git config --global user.email "@"                      -   Configuramos mail
+git config --global user.name "name"                    -   Damos un nombre
