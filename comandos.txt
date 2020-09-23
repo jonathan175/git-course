@@ -10,3 +10,6 @@ git config --global user.name "name"                    -   Damos un nombre
 git log                                                 -   Sigue el historial de commits y muestra quienes hacen los commits
 git checkout -- archivo.xx                              -   Volvemos un paso atras pero si no hicimos add
 git diff archivo.xx                                     -   Permite ver las diferencias los cambios especificos antes del add
+
+!!!PODEMOS EVITAR QUE NOS ACTUALICE CARPETAS Y ARCHIVOS CREANDO UN ARCHIVO ".gitignore" DENTRO INDICAMOS LOS NOMBRES A IGNORAR!!!
+
